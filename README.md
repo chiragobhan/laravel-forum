@@ -31,7 +31,7 @@ Download or Clone this repository.
 Rename `.env.example` to `.env`
   
 ### Step 3
-Open your terminal, navigate to the project and run:  =
+Open your terminal, navigate to the project and run:  
 #### `composer update`  
 This might take a few minutes and will install all the required dependencies for the project
   
