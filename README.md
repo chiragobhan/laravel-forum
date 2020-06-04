@@ -9,13 +9,10 @@ A message board where users can interact with one another via posts and comments
   
 Live Demo - https://l-forum.000webhostapp.com/  
   
-Admin credentials:  
-Username - admin  
-password - admin@forum  
-  
-User credentials:  
-Username - user  
-password - user@forum  
+|User Type|Username|Password|
+|-----|-------------|-------------|
+|Admin|admin|admin@forum|
+|User |user|user@forum|
   
 ## Pre-requisites
 1. [XAMPP](https://www.apachefriends.org/download.html) / [WAMP Server](https://bitnami.com/stack/wamp/installer)
@@ -64,3 +61,8 @@ This command will generate and add the key in `.env` file:
 ### Step 8
 Finally, run this command to see the project in action:
 #### `php artisan serve`
+  
+## Change user type
+Navigate to users table and set type as "admin"
+
+  
