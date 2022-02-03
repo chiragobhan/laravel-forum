@@ -1,18 +1,6 @@
-[![GitHub](https://img.shields.io/github/license/chiragobhan/laravel-forum)](https://github.com/chiragobhan/laravel-forum/blob/master/LICENSE)
-[![](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/chiragobhan/laravel-forum/pulls) 
-[![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=brightgreen&up_message=live&url=https%3A%2F%2Fl-forum.000webhostapp.com%2F)](https://l-forum.000webhostapp.com/)
-[![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fl-forum.000webhostapp.com%2F)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fl-forum.000webhostapp.com%2F)
-[![Maintenance](https://img.shields.io/maintenance/yes/2020)](https://github.com/chiragobhan/laravel-forum/issues)
 # Forum App using Laravel
 
 A message board where users can interact with one another via posts and comments. Features include - an admin panel, related posts, enable/disable comments and topics/categories.  
-  
-Live Demo - https://l-forum.000webhostapp.com/  
-  
-|User Type|Username|Password|
-|-----|-------------|-------------|
-|Admin|admin|admin@forum|
-|User |user|user@forum|
   
 ## Pre-requisites
 1. [XAMPP](https://www.apachefriends.org/download.html) / [WAMP Server](https://bitnami.com/stack/wamp/installer)
